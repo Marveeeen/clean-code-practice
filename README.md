@@ -1,5 +1,5 @@
 # CLEAN-CODE
-Practice implementaion of writing clean code
+Learn how to write readable, understandable and therefore maintainable code - step by step, in an example-driven way
 
 ## Lessons Learned:
 
